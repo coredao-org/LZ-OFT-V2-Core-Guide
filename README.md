@@ -14,32 +14,6 @@ By the end of this guide, you will be able to:
 
 This guide is suitable for both beginners and experienced developers. We will clearly mark success criteria to ensure you're on track.
 
-## Table of Contents
-
-#### [Introduction](#introduction)
-
-#### [Prerequisites](#prerequisites)
-
-#### [Guide Start](#guide-start)
-
-  1. [Install Node.js, pnpm, and Hardhat](#install-nodejs-pnpm-and-hardhat)
-  
-  2. [Set Up Hardhat Project](#set-up-hardhat-project)
-  
-  3. [Configure Hardhat for Base Sepolia Testnet and Core Testnet](#configure-hardhat-for-base-sepolia-testnet-and-core-testnet)
-  
-  4. [Create the OFT Contract](#create-the-oft-contract)
-
-  5. [Write Deployment Scripts](#write-deployment-scripts)
-
-  6. [Deploy Contracts to Base Sepolia and Core Testnet](#deploy-contracts-to-base-sepolia-and-core-testnet)
-  
-  7. [Set Cross-Chain Peers and Libraries](#set-cross-chain-peers-and-libraries)
-
-  8. [Execute Cross-Chain Transfers](#execute-cross-chain-transfers)
-
-#### [Conclusion](#conclusion)
-
 ## Prerequisites
 
 Before starting, make sure you have the following:
