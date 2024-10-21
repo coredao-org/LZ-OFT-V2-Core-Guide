@@ -30,7 +30,7 @@ Ensure you have test tokens on both **Core Testnet** and **Base Sepolia Testnet*
 
 ## Guide Start
 
-1. Cd to the root of the working directory, I will be creating a directory on my Desktop for example purposes.
+1. Navigate to the root of the working directory, for this example purposes, we'll be creating a directory on the Desktop.
 
 Run
 
@@ -42,15 +42,17 @@ An ERC20 extended with core bridging logic from OApp, creating an [Omnichain Fun
 
 An ERC20 extended with core bridging logic from OApp, creating an Omnichain Fungible Token (OFT):
 
+```bash
 ✔ Where do you want to start your project? … ./my-lz-oapp ← rename your project here
 
 ✔ Which example would you like to use as a starting point? › **OFT**
 
 ✔ What package manager would you like to use in your project? › **pnpm**
+```
 
 This will initialize a repo with example contracts, cross-chain unit tests for sample contracts, custom LayerZero configuration files, deployment scripts, and more.
 
-Here, it gives you the option of selecting how you’d like to store/name your project. I am putting **./core-layerzero-example**
+Here, it gives you the option of selecting how you’d like to store/name your project. For example, we'd be using **./core-layerzero-example**
 
 Press **Enter** on your keyboard to proceed.
 
